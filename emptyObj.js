@@ -1,0 +1,1 @@
+exports.notEmpty = (obj) => obj !== null && obj !== undefined && obj !== "";

@@ -1,0 +1,1 @@
+exports.sanitize = (string) => string.toLowerCase().trim();
